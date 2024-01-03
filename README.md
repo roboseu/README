@@ -54,9 +54,11 @@ git config --global user.email "Yujie_Yi@foxmail.com"
 ssh-keygen -t rsa
 ```
 
+生成之后一路回车
+
 将 ~/.ssh/id_rsa.pub中的内容复制到 GitHub 的 SSH Keys 中:
 
-![Untitled](./imgs/README/Untitled.png)
+![Untitled](./imgs/Untitled.png)
 
 这样就链接上啦！
 
@@ -64,11 +66,11 @@ ssh-keygen -t rsa
 
 ### 1）把第二步创建的Github账号名给**亲爱的万博，之后他会给你发个邀请邮件（Github注册的邮箱）**
 
-![Untitled](./imgs/README/Untitled 1.png)
+![Untitled](./imgs/Untitled 1.png)
 
 ### 2）点击邮件里的验证链接并接受就可以
 
-![Untitled](./imgs/README/Untitled.jpeg)
+![Untitled](./imgs/Untitled.jpeg)
 
 ## 第四步：上传组会内容
 
@@ -76,7 +78,7 @@ ssh-keygen -t rsa
 
 创建本地文件夹，并且在文件夹内打开Git bash
 
-![Untitled](./imgs/README/Untitled 2.png)
+![Untitled](./imgs/Untitled 2.png)
 
 ### 2）上传文件
 
