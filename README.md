@@ -66,7 +66,7 @@ ssh-keygen -t rsa
 
 ### 1）把第二步创建的Github账号名给**亲爱的万博，之后他会给你发个邀请邮件（Github注册的邮箱）**
 
-![Untitled](./imgs/Untitled 1.png)
+![Untitled](./imgs/Untitled1.png)
 
 ### 2）点击邮件里的验证链接并接受就可以
 
@@ -78,7 +78,7 @@ ssh-keygen -t rsa
 
 创建本地文件夹，并且在文件夹内打开Git bash
 
-![Untitled](./imgs/Untitled 2.png)
+![Untitled](./imgs/Untitled2.png)
 
 ### 2）上传文件
 
@@ -101,7 +101,7 @@ git push
 
 然后就可以在你的Github上看到上传的内容啦！
 
-![Untitled](imgs/Untitled%203.png)
+![Untitled](imgs/Untitled3.png)
 
 ## 其他常用Git命令
 
