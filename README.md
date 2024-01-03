@@ -114,3 +114,9 @@ git rm -r --cached 需要删除的文件
 git commit -m "随便写"
 git push
 ```
+
+将本地仓库强制更新为远程仓库的内容
+```jsx
+git fetch --all
+git reset --hard origin/main（分支名）
+```
