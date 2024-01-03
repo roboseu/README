@@ -90,7 +90,7 @@ git init
 git add 需要添加的文件名
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/roboseu/YanPan.git
+git remote add origin https://github.com/roboseu/******.git #自己名字对应的git仓库，参考邮件中的仓库名
 git push -u origin main
 
 ### 后续上传 ###
